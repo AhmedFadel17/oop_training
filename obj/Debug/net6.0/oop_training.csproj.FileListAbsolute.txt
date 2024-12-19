@@ -1,0 +1,15 @@
+d:\Projects\oop_training\bin\Debug\net6.0\oop_training.exe
+d:\Projects\oop_training\bin\Debug\net6.0\oop_training.deps.json
+d:\Projects\oop_training\bin\Debug\net6.0\oop_training.runtimeconfig.json
+d:\Projects\oop_training\bin\Debug\net6.0\oop_training.dll
+d:\Projects\oop_training\bin\Debug\net6.0\oop_training.pdb
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.csproj.AssemblyReference.cache
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.AssemblyInfoInputs.cache
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.AssemblyInfo.cs
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.csproj.CoreCompileInputs.cache
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.dll
+d:\Projects\oop_training\obj\Debug\net6.0\refint\oop_training.dll
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.pdb
+d:\Projects\oop_training\obj\Debug\net6.0\oop_training.genruntimeconfig.cache
+d:\Projects\oop_training\obj\Debug\net6.0\ref\oop_training.dll
